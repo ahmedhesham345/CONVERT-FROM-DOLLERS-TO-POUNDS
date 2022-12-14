@@ -1,0 +1,26 @@
+body{
+    height: 100%;
+    background-image: url("doller.jpeg") ;
+   background-repeat: repeat;
+    height: 50%;
+    width: 100%;
+ background-position: center ;
+   background-size: 150%;
+   
+   
+    
+}
+#doller{
+    
+background-color: #000000;
+color: white;
+border-style: solid;
+border-color: #000000;
+}
+#pound{
+
+background-color: #000000;
+color: white;
+border-style: solid;
+border-color: #000000;
+}
